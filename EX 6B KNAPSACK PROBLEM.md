@@ -14,10 +14,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 
 ## Program:
 ```
-/*
-Developed by: HemapriyaR 
-Register Number: 212222040055 
-*/
+Developed by: Bakkiyalakshmi E 
+Register Number: 212223220012
 ```
 ```
 def knapSack(W, wt, val, n):
